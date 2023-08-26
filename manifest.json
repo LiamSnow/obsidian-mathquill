@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-mathquill",
+	"name": "Obsidian Mathquill",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Easy Desmos-like LaTeX editing in Obsidian",
+	"author": "Liam Snow",
+	"authorUrl": "https://liamsnow.com",
 	"isDesktopOnly": false
 }
